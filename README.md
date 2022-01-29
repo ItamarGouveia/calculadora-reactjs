@@ -70,7 +70,7 @@ Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/d
 # Veja o game funcionando
 https://tic-tac-toe-reactjs-pi.vercel.app/
 
-![18e74f9b-dec7-4482-bfef-9b1a9480d137](https://user-images.githubusercontent.com/98480921/151399507-b4f0ee96-3d8d-47db-9813-e1e0e5161118.png)
+![calc](https://user-images.githubusercontent.com/98480921/151668762-41994661-184a-49db-8283-37bfdb066a96.png)
 
 https://tic-tac-toe-reactjs-pi.vercel.app/
 
