@@ -67,10 +67,8 @@ Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/d
 ![Javascript](https://img.shields.io/badge/-Javascript-3e3e3e?style=for-the-badge&logo=Javascript)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJS-3e3e3e?style=for-the-badge&logo=react)&nbsp;
 
-# Veja o game funcionando
-https://tic-tac-toe-reactjs-pi.vercel.app/
+
 
 ![calc](https://user-images.githubusercontent.com/98480921/151668762-41994661-184a-49db-8283-37bfdb066a96.png)
 
-https://tic-tac-toe-reactjs-pi.vercel.app/
 
